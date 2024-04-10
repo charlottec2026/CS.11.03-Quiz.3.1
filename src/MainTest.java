@@ -39,5 +39,5 @@ class MainTest {
         assertEquals("heLLO", Main.endUp("hello"));
         assertEquals("for sURE", Main.endUp("for sure"));
         assertEquals("GG", Main.endUp("gg"));
-    }
+   }
 }
